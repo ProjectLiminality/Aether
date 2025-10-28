@@ -14,5 +14,7 @@
   "supermodules": [
     "rad:znYfZWbzHZSGfWmEF4xMWiKDgBE8"
   ],
-  "radicleId": "rad:z3A1KRdADBB6bHg72aV9XV3wg4SJs"
+  "radicleId": "rad:z3A1KRdADBB6bHg72aV9XV3wg4SJs",
+  "githubRepoUrl": "https://github.com/ProjectLiminality/Aether",
+  "githubPagesUrl": "https://ProjectLiminality.github.io/Aether"
 }
